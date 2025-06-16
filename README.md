@@ -23,14 +23,6 @@ The analysis covers:
 - Pclass vs Survival
 - Age distribution of survivors
 - Fare distribution
-
-### 📈 Example Plots:
-![Survived Count](./survived.png)  
-*Survival Count by Gender*
-
-![Titanic Visualization](./titanic.png)  
-*Passenger Distribution Overview*
-
 ---
 
 ## 🧰 Libraries Used
